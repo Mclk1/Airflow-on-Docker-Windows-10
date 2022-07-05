@@ -1,5 +1,4 @@
-# Airflow on Docker -Windows 10
- Airflow on Docker - Windows 10 Kurulumu ve Python ile CSV Dosyasını PostgreSql DB'ye Yüklemek
+# Airflow on Docker -Windows 10 Kurulumu
  
  Program giriş seviye eğitim içeriği olduğundan dolayı Airflow orjinal yml dosyası sadeleştirilmiştir. Aşağıda yml dosyasından kaldırılan araç isimleri yazmaktadır.
  			
