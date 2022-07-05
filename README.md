@@ -7,5 +7,5 @@
 * airflow-worker 
 * flower
 
-Bu araçların dışında "LOAD_EXAMPLES" özelliği false edilerek örnek airflow Dag'larının yüklenmesi engellenmiştir. Örnek Dag'ları içe aktarmak için yml dosyasındaki AIRFLOW__CORE__LOAD_EXAMPLES: 'true' özelliği açık olmalıdır.
+Bu araçların dışında "LOAD_EXAMPLES" özelliği false edilerek örnek airflow Dag'larının yüklenmesi engellenmiştir. Örnek Dag'ları içe aktarmak için yml dosyasındaki AIRFLOW__CORE__LOAD_EXAMPLES: '' özelliği 'true' olmalıdır.
 				
